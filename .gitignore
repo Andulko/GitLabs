@@ -1,0 +1,5 @@
+# ignore "temp" folder
+temp/
+
+#ignore .tmp files in "log" folder
+log/*.tmp
